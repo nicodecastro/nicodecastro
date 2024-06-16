@@ -4,7 +4,7 @@
   
 - 🌱 I’m currently studying AI, Data Science, and Cloud Computing this term break  
 
-- ⭐ Take a peek at my current project [Facial Expression Recognition](https://github.com/okkinn/facial-expression-recognition-python)  
+- ⭐ Take a peek at my current project [Facial Expression Recognition](https://github.com/okkinn/facial-expression-recognition)  
   
 - 📖 I like to read. I'm currently reading [The Alter Ego Effect by Todd Herman](https://www.goodreads.com/book/show/40139225-the-alter-ego-effect) and [Real-World Software Development by Raoul-Gabriel Urma and Richard Warburton](https://www.goodreads.com/book/show/35355003-real-world-software-development)  
   
