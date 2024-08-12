@@ -6,7 +6,7 @@
   
 - 📖 I like to read. I'm currently reading The Millionaire Next Door by Stanley and Danko and Data Science from Scratch by Joel Grus 
   
-- 🔭 Check out my [portfolio](https://okkinn.github.io/portfolio/](https://nicodecastro.vercel.app/)  
+- 🔭 Check out my [portfolio](https://nicodecastro.vercel.app/)  
 
   
 <br/>  
