@@ -1,14 +1,12 @@
-### <div align="center">I'm Nico De Castro, an incoming 3rd year computer science student 👨‍💻</div>  
+### <div align="center">I'm Nico De Castro, a 3rd year computer science student 👨‍💻</div>  
   
 - 🎓 I'm studying at the University of the Philippines Los Baños
   
 - 🌱 I’m currently studying AI, Data Science, and Cloud Computing this term break  
-
-- ⭐ Take a peek at my current project [Facial Expression Recognition](https://github.com/okkinn/facial-expression-recognition)  
   
-- 📖 I like to read. I'm currently reading [The Alter Ego Effect by Todd Herman](https://www.goodreads.com/book/show/40139225-the-alter-ego-effect) and [Real-World Software Development by Raoul-Gabriel Urma and Richard Warburton](https://www.goodreads.com/book/show/35355003-real-world-software-development)  
+- 📖 I like to read. I'm currently reading The Millionaire Next Door by Stanley and Danko and Data Science from Scratch by Joel Grus 
   
-- 🔭 I sometimes work on my [portfolio](https://okkinn.github.io/portfolio/)  
+- 🔭 Check out my [portfolio](https://okkinn.github.io/portfolio/](https://nicodecastro.vercel.app/)  
 
   
 <br/>  
@@ -41,6 +39,9 @@
 
 
 ## Connect with me  
+<a href="https://twitter.com/dcstnic" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
 <div align="center">
 <a href="https://github.com/nicodecastro" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -55,7 +56,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=okkinn&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nicodecastro&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
