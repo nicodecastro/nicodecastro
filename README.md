@@ -1,15 +1,15 @@
-### <div align="center">I'm Nico De Castro, a 3rd year computer science student 👨‍💻</div>  
+<h2 align="center">Nico De Castro</h1>
+<h3 align="center">Undergraduate Computer Science Student 👨‍💻</h3>
   
-- 🎓 I'm studying at the University of the Philippines Los Baños
+- 🎓 I'm studying at the **University of the Philippines Los Baños**
   
-- 🌱 I’m currently studying AI, Data Science, and Cloud Computing on my free time
+- 🌱 I’m currently studying **AI**, **Data Science**, and **Cloud Computing** in my free time
   
-- 📖 I like to read. I'm currently reading The Millionaire Next Door by Stanley and Danko and Data Science from Scratch by Joel Gru
+- 📖 I like to read—I'm currently reading **The Millionaire Next Door** by Stanley and Danko and **Data Science** from Scratch by Joel Gru
   
 - 🔭 Check out my [portfolio](https://nicodecastro.vercel.app/)
 
 <br/>  
-
 
 ## Technologies I've Used
 <div align="center">  
@@ -37,7 +37,6 @@
 
 <br/>  
 
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/nicodecastro" target="_blank">
@@ -51,9 +50,7 @@
 </a>
 </div>  
   
-
 <br/>  
-
 
 ## Github Stats  
 <div align="center">
